@@ -1,0 +1,6 @@
+1) If we run the command 'make' a couple commands get run the first time
+gcc -Wall -c utils.c
+gcc -Wall tema.o utils.o -o tema
+
+If we change the MIN_VALUE macro in the utils.h file nothing gets updated when we run the make command again
+make: Nothing to be done for 'all'.

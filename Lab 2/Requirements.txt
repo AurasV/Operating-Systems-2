@@ -1,0 +1,13 @@
+1) Consider the case when a person introduces
+her/his personal details and based on a
+provided amount of money which the person
+has, multiple threads compute how much the
+person can earn if the money are deposited for
+maximum 10 years at a bank where the
+interest is of 0.7% per month. Solve the problem
+using global and static variables.
+
+2) Write a program based on threads which will
+compute the number of occurrences of a specific
+word inside multiple files that exist at a
+provided path.

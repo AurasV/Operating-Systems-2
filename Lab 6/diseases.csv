@@ -1,0 +1,11 @@
+Disease,Temperature_Min,Temperature_Max,Severity
+Heatstroke,30,50,emergency
+Hypothermia,-20,0,emergency
+Sunburn,25,35,warning
+Frostbite,-30,-10,warning
+Dehydration,35,50,normal
+Flu,5,15,normal
+Common Cold,0,8,normal
+Allergies,10,25,low
+Asthma Attack,5,20,low
+Heat Exhaustion,27,40,low

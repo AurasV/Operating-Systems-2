@@ -1,0 +1,12 @@
+1) Consider a restaurant where orders are
+received. The waiter is the producer. He is
+responsible of adding pizza orders inside the
+restaurant’s kitchen. The cook is responsible of
+consuming the pizza orders and announcing
+when he has finished. Simulate the situation
+using threads.
+
+2) The restaurant has a parking. The barrier to
+enter it shouldn’t open if there are no available
+parking lots. Simulate the situation using
+threads.

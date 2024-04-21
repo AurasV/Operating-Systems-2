@@ -1,0 +1,11 @@
+1) Consider the case when several persons play
+the wireless phone game. They send a message
+from the first person until the last one and the
+message gets distorted. Simulate this process
+according to your own distortion rules.
+
+2) Some of the persons do not want to be
+understood by others who are around them, so
+they start to use the chicken language by
+adding a ‘p’ letter before and after a vowel.
+Simulate the new game and display the results.
