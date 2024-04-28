@@ -1,0 +1,12 @@
+ - Encrypt and decrypt the Julius Caesar
+Caesar cipher replaces each letter with a different letter placed at a
+fixed number of spaces in the alphabet. The figure shown here uses a
+left shift of three positions, so that (for example) each occurrence of E
+in the plaintext becomes B in the ciphertext.
+ - Encryption can also be represented using modular arithmetic by
+firstly converting the letters into numbers, according to A = 0, B = 1,
+..., Z = 25. Encryption of a letter x by a shift n can be described
+mathematically as, En(x) = (x + n) mod 26.
+ - Decryption is performed similarly, Dn(x) = (x - n) mod 26.
+ - View encryption at server side after the customer has sent a
+message.
