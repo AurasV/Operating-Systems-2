@@ -1,0 +1,5 @@
+    1. Create a window where you can give the path of a
+folder and that it will show the files that are inside.
+    2. Test if a given path is a directory.
+    3. Create a window where the first button will calculate
+n! and the second button calculates n to the power m.
